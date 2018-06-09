@@ -6,12 +6,7 @@
 
 
 ##curl_code
-根据
-requestUrl
-requestMethod
-requestContentType
-formData
-生成http代码
+根据 http协议的 requestUrl,requestMethod,requestContentType,formData 生成java代码
 
 
 
