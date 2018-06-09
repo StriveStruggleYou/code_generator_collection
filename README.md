@@ -6,6 +6,12 @@
 
 
 ##curl_code
+根据
+requestUrl
+requestMethod
+requestContentType
+formData
+生成http代码
 
 
 
