@@ -86,8 +86,6 @@ public class App {
     String requestContentType = "application/x-www-form-urlencoded; charset=UTF-8";
     String formData = "userId=2285811&skillsNum=5";
 
-
-
   }
 
 
